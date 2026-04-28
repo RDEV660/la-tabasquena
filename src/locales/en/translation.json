@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "La Tabasqueña Bakery | Mexican bakery in Mission, TX",
+    "description": "Mexican bakery at 2901 Flores Rd, Mission, Texas. Soft breads, custom cakes, and orders on WhatsApp at (956) 599-9221."
+  },
+  "nav": {
+    "gallery": "Gallery",
+    "about": "About",
+    "visit": "Visit",
+    "contact": "Contact",
+    "connect": "Map & reviews",
+    "langShortEn": "EN",
+    "langShortEs": "ES"
+  },
+  "actions": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "getDirections": "Get directions",
+    "email": "Email"
+  },
+  "hero": {
+    "name": "La Tabasqueña Bakery",
+    "tagline": "Soft Mexican breads & pastries, baked fresh in Mission"
+  },
+  "gallery": {
+    "title": "The bakery",
+    "subtitle": "Photos of our breads and cakes will appear here soon—until then, visit us or say hi on WhatsApp.",
+    "placeholder": "Gallery photos will slide here once we've added them.",
+    "placeholderAlt": "Gallery placeholder for bakery photos",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "dotsLabel": "Choose a photo",
+    "goToSlide": "Go to photo {{n}}"
+  },
+  "about": {
+    "title": "About us",
+    "specialty": "Specialty: Mexican bakery",
+    "paragraphs": [
+      "La Tabasqueña Bakery is a Mexican bakery at 2901 Flores Rd, Mission, TX 78574. We offer a wide variety of delicious, high-quality baked goods.",
+      "Our bread is soft and flavorful—many customers taste the butter in every bite. With a 5 out of 5 rating from happy guests, we work every day to keep that standard.",
+      "For lots of regulars we’re already the go-to spot: the bread stays soft for days and the flavor keeps people coming back—and telling friends and family.",
+      "Beyond daily bread, we take custom cake orders: from simple butter cakes to filled styles or tres leches. Please order at least 2 days in advance.",
+      "If you want a nearby bakery with real-deal baked goods, La Tabasqueña Bakery is it. Call (956) 599-9221, WhatsApp us, or visit the shop."
+    ],
+    "customCakes": "Custom cake? Order at least 2 days ahead:",
+    "customCakesWhatsApp": "message us on WhatsApp at"
+  },
+  "status": {
+    "openNow": "Open now"
+  },
+  "visit": {
+    "title": "Visit us",
+    "cityLine": "{{city}}, {{state}}",
+    "mapEmbedTitle": "Map: La Tabasqueña Bakery, Mission, TX"
+  },
+  "contact": {
+    "title": "Contact",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "whatsappHint": "Same number—chat with us for orders and questions.",
+    "email": "Email",
+    "hours": "Hours",
+    "hoursGrouped": [
+      { "line": "Monday – Saturday", "time": "7:00 AM – 10:00 PM" },
+      { "line": "Sunday", "time": "8:00 AM – 9:00 PM" }
+    ]
+  },
+  "connect": {
+    "title": "Reviews & map",
+    "reviewsLine": "★★★★★ {{rating}} / 5 · {{count}} reviews",
+    "addLinksHint": "When you have a Facebook or other social link, you can add it in the site config.",
+    "follow": "Find us",
+    "googleMaps": "Open in Google Maps"
+  },
+  "footer": {
+    "line": "Bakery · {{city}}",
+    "langSwitch": "Language"
+  }
+}

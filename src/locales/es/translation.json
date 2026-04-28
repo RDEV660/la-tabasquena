@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "La Tabasqueña Bakery | Panadería mexicana en Mission, TX",
+    "description": "Panadería mexicana en 2901 Flores Rd, Mission, Texas. Pan suave, pasteles personalizados y pedidos por WhatsApp al (956) 599-9221."
+  },
+  "nav": {
+    "gallery": "Galería",
+    "about": "Nosotros",
+    "visit": "Visítanos",
+    "contact": "Contacto",
+    "connect": "Mapa y reseñas",
+    "langShortEn": "EN",
+    "langShortEs": "ES"
+  },
+  "actions": {
+    "call": "Llamar",
+    "whatsapp": "WhatsApp",
+    "getDirections": "Cómo llegar",
+    "email": "Correo"
+  },
+  "hero": {
+    "name": "La Tabasqueña Bakery",
+    "tagline": "Pan mexicano suave, horneado con cariño en Mission"
+  },
+  "gallery": {
+    "title": "Nuestra panadería",
+    "subtitle": "Muy pronto mostraremos fotos de nuestros panes y pasteles. Mientras tanto, pásate por la tienda o escríbenos por WhatsApp.",
+    "placeholder": "Aquí verás rotando las fotos de nuestra panadería en cuanto las subamos.",
+    "placeholderAlt": "Espacio reservado para la galería de la panadería",
+    "prev": "Foto anterior",
+    "next": "Foto siguiente",
+    "dotsLabel": "Seleccionar foto",
+    "goToSlide": "Ir a la foto {{n}}"
+  },
+  "about": {
+    "title": "Nuestra historia",
+    "specialty": "Especialidad: panadería mexicana",
+    "paragraphs": [
+      "La Tabasqueña Bakery es una panadería mexicana en 2901 Flores Rd, Mission, TX 78574, Estados Unidos. Aquí encontrarás una amplia variedad de productos horneados deliciosos y de alta calidad.",
+      "Nuestro pan es tan suave y sabroso que muchos clientes notan la mantequilla en cada bocado. Con una valoración perfecta de 5 sobre 5 según quienes ya nos han visitado, cada día trabajamos para mantener ese estándar.",
+      "Para muchos es ya la panadería de cabecera: el pan se mantiene suave incluso durante los días siguientes y el sabor sorprende. Por eso no es raro que nos recomienden a amigos y familiares.",
+      "Además del pan del día, aceptamos pedidos de pasteles personalizados: desde un pastel sencillo de mantequilla hasta rellenos especiales o un tres leches. Solo necesitas hacer tu pedido con al menos 2 días de anticipación.",
+      "Si buscas una panadería cercana con productos horneados de verdad, La Tabasqueña Bakery es una excelente opción. Llámanos al (956) 599-9221, escríbenos por WhatsApp o pásate por la tienda."
+    ],
+    "customCakes": "¿Pastel a medida? Pide con 2 días de anticipación:",
+    "customCakesWhatsApp": "escríbenos por WhatsApp al"
+  },
+  "status": {
+    "openNow": "Abierto ahora"
+  },
+  "visit": {
+    "title": "Visítanos",
+    "cityLine": "{{city}}, {{state}}",
+    "mapEmbedTitle": "Mapa: La Tabasqueña Bakery, Mission, TX"
+  },
+  "contact": {
+    "title": "Contacto",
+    "phone": "Teléfono",
+    "whatsapp": "WhatsApp",
+    "whatsappHint": "Mismo número: chatea con nosotros para pedidos y preguntas.",
+    "email": "Correo",
+    "hours": "Horario",
+    "hoursGrouped": [
+      { "line": "Lunes – sábado", "time": "7:00 a. m. – 10:00 p. m." },
+      { "line": "Domingo", "time": "8:00 a. m. – 9:00 p. m." }
+    ]
+  },
+  "connect": {
+    "title": "Reseñas y ubicación en el mapa",
+    "reviewsLine": "★★★★★ {{rating}} / 5 · {{count}} opiniones",
+    "addLinksHint": "Cuando tengas enlace de Facebook u otras redes, podrás añadirlos en la configuración del sitio.",
+    "follow": "Síguenos",
+    "googleMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "line": "Panadería · {{city}}",
+    "langSwitch": "Idioma"
+  }
+}
