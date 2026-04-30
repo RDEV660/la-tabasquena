@@ -40,7 +40,8 @@ export const siteConfig: {
   mapsPlaceUrl: 'https://goo.gl/maps/ySAbYF1FnMJ9Zm8AA',
   showOpenNowBadge: true,
   social: {
-    facebookUrl: '',
+    facebookUrl:
+      'https://www.facebook.com/p/La-Tabasque%C3%B1a-Bakery-100086939588376/',
   },
   reviews: {
     count: 6,

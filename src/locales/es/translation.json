@@ -70,6 +70,8 @@
     "reviewsLine": "★★★★★ {{rating}} / 5 · {{count}} opiniones",
     "addLinksHint": "Cuando tengas enlace de Facebook u otras redes, podrás añadirlos en la configuración del sitio.",
     "follow": "Síguenos",
+    "facebook": "Facebook",
+    "facebookAria": "La Tabasqueña Bakery en Facebook — se abre en una pestaña nueva",
     "googleMaps": "Ver en Google Maps"
   },
   "footer": {

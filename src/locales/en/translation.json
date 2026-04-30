@@ -70,6 +70,8 @@
     "reviewsLine": "★★★★★ {{rating}} / 5 · {{count}} reviews",
     "addLinksHint": "When you have a Facebook or other social link, you can add it in the site config.",
     "follow": "Find us",
+    "facebook": "Facebook",
+    "facebookAria": "La Tabasqueña Bakery on Facebook — opens in a new tab",
     "googleMaps": "Open in Google Maps"
   },
   "footer": {

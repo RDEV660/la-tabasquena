@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { siteConfig } from '../config/site'
+import { FacebookIcon } from './FacebookIcon'
 
 export function ConnectSection() {
   const { t } = useTranslation()
@@ -44,9 +45,11 @@ export function ConnectSection() {
                   href={f}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex min-h-11 items-center justify-center rounded-full border-2 border-primary/40 bg-surface px-5 py-2 text-sm font-bold text-primary no-underline transition hover:bg-pink-pale/80"
+                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border-2 border-[#1877f2]/40 bg-[#1877f2] px-5 py-2 text-sm font-bold text-white no-underline shadow-sm transition duration-200 hover:-translate-y-0.5 hover:border-[#166fe5]/55 hover:bg-[#166fe5] hover:shadow-md"
+                  aria-label={t('connect.facebookAria')}
                 >
-                  {t('connect.follow')} (Facebook)
+                  <FacebookIcon className="h-4 w-4 shrink-0 text-white" />
+                  {t('connect.facebook')}
                 </a>
               </li>
             ) : null}

@@ -1,8 +1,10 @@
 import { useTranslation } from 'react-i18next'
 import { getWhatsAppUrl, siteConfig } from '../config/site'
+import { FacebookIcon } from './FacebookIcon'
 
 export function Hero() {
   const { t } = useTranslation()
+  const fb = siteConfig.social.facebookUrl
 
   return (
     <section
@@ -66,6 +68,18 @@ export function Hero() {
           >
             {t('actions.getDirections')}
           </a>
+          {fb ? (
+            <a
+              href={fb}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-pop-facebook"
+              aria-label={t('connect.facebookAria')}
+            >
+              <FacebookIcon className="h-[1.15rem] w-[1.15rem] shrink-0 text-white" />
+              {t('connect.facebook')}
+            </a>
+          ) : null}
         </div>
       </div>
     </section>
